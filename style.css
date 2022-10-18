@@ -1,0 +1,12 @@
+.bgblack{ 
+      background-color: rgb(33, 31, 31);
+}
+.hover_me:hover{
+    background-color: purple;
+    color: rgb(232, 214, 214);
+    border-radius: 1rem;
+    padding-left: 0.4rem;
+    padding-right: 0.4rem;
+    font-size: 0.8rem;
+    box-sizing: border-box;
+}
